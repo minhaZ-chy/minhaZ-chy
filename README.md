@@ -71,7 +71,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Minhaz's Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaZ-chy&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Minhaz's Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaZ-chy&custom_title=Minhaz's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
